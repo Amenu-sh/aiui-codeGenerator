@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100vh;
+  background-color: rgb(16, 23, 42);
+}
+
+pre {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: black;
+  overflow: auto;
+}
+
+h2,
+p {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+code {
+  margin-bottom: 2rem;
+}
