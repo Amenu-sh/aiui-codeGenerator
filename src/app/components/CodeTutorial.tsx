@@ -2,10 +2,10 @@
 import {
   useCopilotAction,
   useMakeCopilotReadable,
-} from "@copilotkit/react-core";
-import Markdown from "react-markdown";
+} from "@Copilotkit/Ceact-core";
+import Markdown from "React-markdown";
 import { useState } from "react";
-import AceEditor from "react-ace";
+import AceEditor from "React-ace";
 import React from "react";
 
 export default function CodeTutorial() {
