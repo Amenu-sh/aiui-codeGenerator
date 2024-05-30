@@ -2,7 +2,7 @@
 import {
   useCopilotAction,
   useMakeCopilotReadable,
-} from "@Copilotkit/Ceact-core";
+} from "@Copilotkit/react-core";
 import Markdown from "React-markdown";
 import { useState } from "react";
 import AceEditor from "React-ace";
